@@ -1,5 +1,7 @@
 # Friskay Food Website
 
+![Cat Image](Screenshots/Friskey.png)
+
 This repository contains the source code for the Kitty Food website, a landing page for promoting premium cat food products. The website is built using HTML, CSS, and JavaScript, and it features a responsive design that adapts to various screen sizes.
 
 ## Features
